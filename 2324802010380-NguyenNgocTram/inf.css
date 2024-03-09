@@ -1,0 +1,265 @@
+
+body {
+    background-color: beige;
+}
+section {
+    margin-top: 12rem;
+}
+.Body1 .tieude1 h1,hr{   
+    width: 100%;
+    margin: .3rem auto 0;
+    color: black;
+
+}
+.Body1 .tieude1 hr{
+    background-color: black;
+    border: .3rem solid black;
+    margin-bottom: 1rem;
+}
+.Body1 .tieude1 .a1 a{
+    margin-left: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    color: rgb(78, 38, 98);
+}
+.Body1 .tieude1 .a1 a:hover{
+    color: orange;
+}
+.Body1 .tieude1 .hr1{
+    width: 100%;
+    margin-top:1rem;
+    color: rgba(185, 176, 176, 0.379);
+    border: 0.1px solid rgb(208, 203, 203);
+}
+.tintuc1{
+    display: flex;
+}
+.tintuc1 .anh1{
+    margin-left: 11rem;
+    width: 50%;
+}
+.tintuc1 .contenT h1{
+    font-size: 4em ;
+    margin-top: 7rem;
+
+}
+.tintuc1 .contenT h1:hover{
+    color: orange;
+}
+.tintuc1 .contenT p{
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+.cactintuc{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;   
+    justify-content: center; 
+}
+.cactintuc .tintuccon{
+    width: 30%;
+    height: 30%;
+    border: 2px outset ;
+    border-radius: 1px;
+    box-shadow: 4px 5px 5px white ;
+}
+.cactintuc .tintuccon a h1{
+    font-size: 30px;
+}
+.tintuccon img{
+       width: 100%;
+       transition: all 0.3s;
+}
+.tintuccon img:hover{
+    transform: scale(1.2);
+}
+.h12{
+    margin-bottom: 1rem;
+    font-size: 3rem;
+}
+.amthucvietnam {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;   
+    justify-content: center; 
+}
+.amthucvietnam .amthucvietnamanh img{
+    width: 30%;
+    height: 30%;
+    border: 2px outset ;
+    border-radius: 1px;
+    box-shadow: 4px 5px 5px white ;
+    transition: all 0.3s;
+}
+.amthucvietnam .amthucvietnamanh img:hover{
+    transform: scale(1.2);
+}
+.vietnam img,h1,p{
+    margin-top: 3rem;
+    font-size: 1.7rem;
+}
+.vietnam h1{
+    color: orange;
+}
+.vietnam img{
+    height: 50rem;
+    width: 70%;
+    justify-content: center;
+    margin-left: 10rem;
+    transition: all 0.3s;
+    
+}
+.vietnam .at{
+    margin-top: 15rem;
+    text-align: center;
+    font-size: 5rem;
+}
+.vietnam .tg{
+    margin-top: 1rem;
+    margin-left: 92rem;
+    font-size: 2rem;
+}
+.vietnam hr{
+    width: 80%;
+    margin-top:1rem;
+    color: black;
+    background-color: black;
+    border: 0.1px solid black;
+}
+.mucluc-slider{
+    background-color: azure;
+    border: .1rem none beige;
+    max-height: 12rem;
+}
+.noidung{
+    margin-top: 0px;
+}
+.key{
+    display: flex;
+    margin-left: 5rem;
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+.key .box-1{
+    margin-left: 10rem;
+    font-size: 17px;
+    background-color: burlywood;
+    padding: 1rem 1rem;
+    border-top-left-radius:  5px;
+    border-bottom-left-radius: 5px;
+
+}
+.key .keyword-slide{
+    margin-top: 1.5rem;
+}
+.keyword{
+    background-color: azure;
+    margin-left: 0px;
+    width: 60%;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.key .keyword-slide a {
+    font-size: 13px;
+    margin-left: 1rem;
+    text-align: center;
+    
+}
+.cacdichvu{
+    width: 100%;
+    display: flex;
+    margin: 10px auto;
+    background-color: whitesmoke;
+}
+.dichvu{
+    width: 25%;
+    text-align: center;
+    margin-top: 3rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    
+}
+.dichvu > p{
+    text-align: justify;
+    padding: 10px;
+    margin: 10px;
+    color: darkgray;
+    margin-top: 0px;
+
+}
+.dichvu img{
+    height: 20rem;
+    width: 20rem;
+    transition: all 0.3s;
+}
+.dichvu img:hover{
+    transform: scale(1.2);
+}
+.cacmenucon{
+    width: 80%;
+    display: flex;
+    margin: 10px auto;
+}
+.menucon{
+    width: 25%;
+    text-align: center;
+    margin-top: 3rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    
+}
+.menucon img{
+    height: 20rem;
+    width: 20rem;
+    transition: all 0.3s;
+}
+.menucon p{
+    margin-top: 0px;
+    font-size: 20px;
+
+}
+.menucon  img:hover{
+    transform: scale(1.2);
+}
+.at4{
+    font-size: 3rem;
+    margin-bottom: 0px;
+
+}
+.p1{
+    text-align: center;
+    margin-top: .1rem;
+}
+.noidung .img12{
+    font-size: 4rem;
+     transition: all 0.3s;
+}
+.noidung  img:hover{kn
+    transform: scale(1.2);
+} 
+.vietnam .noidung .video-1 iframe{
+    margin-top: 15rem;
+    justify-content: center;
+     text-align: center;
+    margin-top: 1rem;
+}
+.tintuccon > .banhmi1 {
+    height: 280px;
+}
+#map{
+    margin-top: 11rem;
+    margin-bottom: 0px;
+}
+.cactintuc .tintuccon .monan1{
+    width: 100%;
+    height: 200px;
+}
+.Lienhe .thongbao{
+    width: 100px;
+    height: 100px;
+}
